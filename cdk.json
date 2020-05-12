@@ -1,0 +1,4 @@
+
+{
+  "app": "npx ts-node ci/cdk/index.ts"
+}
